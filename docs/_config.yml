@@ -1,4 +1,3 @@
-baseurl: "https://kanata2.dev/ghpages-sample"
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-paginate
