@@ -3,7 +3,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="ghpages-sample{{ post.url }}"> {{ post.url }} - {{ post.title }}</a>
+      <a href="/ghpages-sample{{ post.url }}"> {{ post.url }} - {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
