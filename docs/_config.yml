@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-paginate
+  - jekyll-relative-links
+pagenate: 1
+pagenate_path: '/posts/page:num'
+sidebar_blog_link: '/posts'
